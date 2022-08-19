@@ -26,16 +26,16 @@
   </a>
 </p>
 <h2 align="center">Skills</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MaiweiAI&label=Profile%20views&color=0e75b6&style=flat" alt="MaiweiAI" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=guoxxiong&label=Profile%20views&color=0e75b6&style=flat" alt="guoxxiong" /> </p> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
   <div align="center">
 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MaiweiAI&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiweiAI&hide=html&layout=compact&theme=highcontrast" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiweiAI&theme=highcontrast" alt="MaiweiAI" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Charmve&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guoxxiong&hide=html&layout=compact&theme=highcontrast" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guoxxiong&theme=highcontrast" alt="guoxxiong" />
    
  </div>
  </details>
