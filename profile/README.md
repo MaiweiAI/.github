@@ -7,11 +7,11 @@
 </div>
  
 <div align="right">
-<a href="https://orcid.org/0000-0002-3604-4895">ORCID</a>
+<a href="https://github.com/Charmve/computer-vision-in-action">L0CV</a>
 <b>,</b>
-<a href="http://saee.ustb.edu.cn">SAEE</a>
+<a href="https://github.com/Charmve">创始人：Charmve</a>
 <b>,</b>
-<a href="https://www.ustb.edu.cn">USTB</a>
+<a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png">微信公众号：迈微AI研习社</a>
 </div>
 
 <h2></h2>
@@ -41,7 +41,7 @@
  </details>
  
  <div align="center">
- <a href=https://www.youtube.com/channel/UCs0XpBpQNL1EifN2g_xtSIQ>YouTube</a>
+ <a href=https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ>YouTube</a>
  <b>&emsp;&emsp;</b>
- <a href=https://space.bilibili.com/155970040/>Bilibili</a>
+ <a href=https://space.bilibili.com/62079686>Bilibili</a>
  </div>
