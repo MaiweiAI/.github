@@ -2,7 +2,7 @@
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=48&pause=500&color=000000&vCenter=true&width=600&height=70&lines=Hello,+this+is+Maiwei.ai.;We're+currently+working+on+Robotics.;We're+going+to+focusing+on+data-driven+vision+perception+for+autonomous+vehicles!)](https://github.com/Charmve)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=48&pause=500&color=000000&vCenter=true&width=600&height=70&lines=Hello,+this+is+Maiwei.ai.;We're+currently+working+on+Robotics.;We're+going+to+focusing+on+data-driven+vision+perception+for+autonomous+vehicles.;Join+us!)](https://github.com/Charmve)
  
 </div>
  
